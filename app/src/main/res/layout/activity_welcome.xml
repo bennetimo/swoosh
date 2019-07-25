@@ -65,9 +65,10 @@
             android:text="GET STARTED"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:id="@+id/btnGetStarted" app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="8dp"
-            android:layout_marginBottom="8dp" app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp"
+            android:id="@+id/btnGetStarted" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginBottom="16dp" app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="16dp"
             android:fontFamily="@font/montserrat" android:textSize="14sp" android:background="@drawable/swoosh_button"
             android:textColor="@android:color/white"/>
 
