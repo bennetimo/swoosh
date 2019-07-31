@@ -1,4 +1,4 @@
-package io.coderunner.swoosh
+package io.coderunner.swoosh.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

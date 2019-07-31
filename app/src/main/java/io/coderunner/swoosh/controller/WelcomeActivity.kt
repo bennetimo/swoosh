@@ -1,8 +1,8 @@
-package io.coderunner.swoosh
+package io.coderunner.swoosh.controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import io.coderunner.swoosh.R
 import kotlinx.android.synthetic.main.activity_welcome.*
 
 class WelcomeActivity : BaseActivity() {
